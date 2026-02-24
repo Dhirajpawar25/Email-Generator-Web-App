@@ -1,0 +1,5 @@
+streamlit
+serpapi
+pandas
+openpyxl
+requests
