@@ -1,5 +1,6 @@
 streamlit
 serpapi
+google-search-results
 pandas
 openpyxl
 requests
